@@ -3,6 +3,8 @@
 ![EMI Calculator Screenshot](./public/screenshot.png)  
 *Calculate loan payments with precision*
 
+Live Demo: [emi-calculator-pro.vercel.app](https://emi-calculator-pro.vercel.app)
+
 ## 🚀 Features
 
 ### 📝 Input Fields
