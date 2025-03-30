@@ -1,7 +1,6 @@
-# NEXT.js EMI Calculator Pro
+# Next.js EMI Calculator Pro
 
 ![EMI Calculator Screenshot](./public/screenshot.png)  
-*Calculate loan payments with precision*
 
 Live Demo: [emi-calculator-pro.vercel.app](https://emi-calculator-pro.vercel.app)
 
@@ -35,10 +34,21 @@ Live Demo: [emi-calculator-pro.vercel.app](https://emi-calculator-pro.vercel.app
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/Alirazahaider/nextjs-emi-calculator.git
+git clone https://github.com/Alirazahaider/emi-calculator-pro.git
 
 # Navigate to project directory
-cd emi-calculator
+cd emi-calculator-pro
 
 # Install dependencies
 npm install
+```
+
+## 💌 Get In Touch
+
+Thank you for checking out this project! If you have any questions, suggestions, would like to collaborate, or need my development services:
+
+[![Email](https://img.shields.io/badge/-Email-0e5255?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alicodespace@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e5255?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliraza-online)
+
+⭐ Support the project by starring the repository!
+[![GitHub stars](https://img.shields.io/github/stars/Alirazahaider/nextjs-emi-calculator?style=social)](https://github.com/Alirazahaider/emi-calculator-pro)
