@@ -49,6 +49,7 @@ Thank you for checking out this project! If you have any questions, suggestions,
 
 [![Email](https://img.shields.io/badge/-Email-0e5255?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alicodespace@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e5255?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliraza-online)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0e5255?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alicodez.vercel.app/)
 
 ⭐ Support the project by starring the repository!
-[![GitHub stars](https://img.shields.io/github/stars/Alirazahaider/nextjs-emi-calculator?style=social)](https://github.com/Alirazahaider/emi-calculator-pro)
+[![GitHub stars](https://img.shields.io/github/stars/Alirazahaider/emi-calculator-pro?style=social)](https://github.com/Alirazahaider/emi-calculator-pro)
