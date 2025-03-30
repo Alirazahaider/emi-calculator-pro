@@ -1,4 +1,4 @@
-# EMI Calculator Pro
+# NEXT.js EMI Calculator Pro
 
 ![EMI Calculator Screenshot](./public/screenshot.png)  
 *Calculate loan payments with precision*
