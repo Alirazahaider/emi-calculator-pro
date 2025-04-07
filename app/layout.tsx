@@ -1,7 +1,13 @@
 
 import "./globals.css";
-
 import { Poppins } from "next/font/google";
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "EMI Calculator | Ali Raza ",
+  description: "Quickly calculate your EMI, total interest, and payment schedule for any loan amount, interest rate, and tenure. Free and easy to use.",
+};
+
 
 const poppins = Poppins({
   subsets: ["latin"],
